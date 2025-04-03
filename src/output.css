@@ -647,10 +647,6 @@ video {
   margin-bottom: 10x;
 }
 
-.mb-\[\] {
-  margin-bottom: ;
-}
-
 .block {
   display: block;
 }
@@ -717,10 +713,6 @@ video {
 
 .w-\[390px\] {
   width: 390px;
-}
-
-.w-\[\] {
-  width: ;
 }
 
 .w-\[405\] {
@@ -940,10 +932,6 @@ video {
 .text-\[\#FFFFFF\] {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-}
-
-.text-\[\] {
-  color: ;
 }
 
 @media (min-width: 510px) {
